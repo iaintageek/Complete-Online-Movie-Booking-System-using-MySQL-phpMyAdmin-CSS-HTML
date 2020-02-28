@@ -1,4 +1,4 @@
-Requirements:
+Requirements: 
 1.Windows OS 8.1 or above
 2.XAMPP to launch Apache Server and MySQL database
 3.phpMyAdmin access and database
